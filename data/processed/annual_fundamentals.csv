@@ -1,0 +1,19 @@
+ticker,company_name,fiscal_year,revenue,revenue_tag,filing_date,period_end,net_income,net_income_tag,operating_income,operating_income_tag,accounts_receivable,accounts_receivable_tag
+AAPL,Apple Inc.,2021,260174000000.00,RevenueFromContractWithCustomerExcludingAssessedTax,2021-10-29,2020-09-26,55256000000.00,NetIncomeLoss,63930000000.00,OperatingIncomeLoss,16120000000.00,AccountsReceivableNetCurrent
+AAPL,Apple Inc.,2022,274515000000.00,RevenueFromContractWithCustomerExcludingAssessedTax,2022-10-28,2021-09-25,57411000000.00,NetIncomeLoss,66288000000.00,OperatingIncomeLoss,26278000000.00,AccountsReceivableNetCurrent
+AAPL,Apple Inc.,2023,365817000000.00,RevenueFromContractWithCustomerExcludingAssessedTax,2023-11-03,2022-09-24,94680000000.00,NetIncomeLoss,108949000000.00,OperatingIncomeLoss,28184000000.00,AccountsReceivableNetCurrent
+AAPL,Apple Inc.,2024,394328000000.00,RevenueFromContractWithCustomerExcludingAssessedTax,2024-11-01,2023-09-30,99803000000.00,NetIncomeLoss,119437000000.00,OperatingIncomeLoss,29508000000.00,AccountsReceivableNetCurrent
+GOOGL,Alphabet Inc.,2022,182527000000.00,RevenueFromContractWithCustomerExcludingAssessedTax,2023-02-03,2021-12-31,40269000000.00,NetIncomeLoss,41224000000.00,OperatingIncomeLoss,39304000000.00,AccountsReceivableNetCurrent
+GOOGL,Alphabet Inc.,2023,257637000000.00,RevenueFromContractWithCustomerExcludingAssessedTax,2024-01-31,2022-12-31,76033000000.00,NetIncomeLoss,78714000000.00,OperatingIncomeLoss,40258000000.00,AccountsReceivableNetCurrent
+GOOGL,Alphabet Inc.,2024,282836000000.00,RevenueFromContractWithCustomerExcludingAssessedTax,2025-02-05,2023-12-31,59972000000.00,NetIncomeLoss,74842000000.00,OperatingIncomeLoss,47964000000.00,AccountsReceivableNetCurrent
+KO,COCA COLA CO,2021,37266000000.00,Revenues,2022-02-22,2020-12-31,8920000000.00,NetIncomeLoss,10086000000.00,OperatingIncomeLoss,3144000000.00,AccountsReceivableNetCurrent
+KO,COCA COLA CO,2022,33014000000.00,Revenues,2023-02-21,2021-12-31,7747000000.00,NetIncomeLoss,8997000000.00,OperatingIncomeLoss,3512000000.00,AccountsReceivableNetCurrent
+KO,COCA COLA CO,2023,38655000000.00,Revenues,2024-02-20,2022-12-31,9771000000.00,NetIncomeLoss,10308000000.00,OperatingIncomeLoss,3487000000.00,AccountsReceivableNetCurrent
+KO,COCA COLA CO,2024,43004000000.00,Revenues,2025-02-20,2023-12-31,9542000000.00,NetIncomeLoss,10909000000.00,OperatingIncomeLoss,3410000000.00,AccountsReceivableNetCurrent
+MSFT,MICROSOFT CORPORATION,2021,125843000000.00,RevenueFromContractWithCustomerExcludingAssessedTax,2021-07-29,2020-06-30,39240000000.00,NetIncomeLoss,42959000000.00,OperatingIncomeLoss,32011000000.00,AccountsReceivableNetCurrent
+MSFT,MICROSOFT CORPORATION,2022,143015000000.00,RevenueFromContractWithCustomerExcludingAssessedTax,2022-07-28,2021-06-30,44281000000.00,NetIncomeLoss,52959000000.00,OperatingIncomeLoss,38043000000.00,AccountsReceivableNetCurrent
+MSFT,MICROSOFT CORPORATION,2023,168088000000.00,RevenueFromContractWithCustomerExcludingAssessedTax,2023-07-27,2022-06-30,61271000000.00,NetIncomeLoss,69916000000.00,OperatingIncomeLoss,44261000000.00,AccountsReceivableNetCurrent
+MSFT,MICROSOFT CORPORATION,2024,198270000000.00,RevenueFromContractWithCustomerExcludingAssessedTax,2024-07-30,2023-06-30,72738000000.00,NetIncomeLoss,83383000000.00,OperatingIncomeLoss,48688000000.00,AccountsReceivableNetCurrent
+NVDA,NVIDIA CORP,2022,10918000000.00,Revenues,2022-03-18,2021-01-31,2796000000.00,NetIncomeLoss,2846000000.00,OperatingIncomeLoss,2429000000.00,AccountsReceivableNetCurrent
+NVDA,NVIDIA CORP,2023,16675000000.00,Revenues,2023-02-24,2022-01-30,4332000000.00,NetIncomeLoss,4532000000.00,OperatingIncomeLoss,4650000000.00,AccountsReceivableNetCurrent
+NVDA,NVIDIA CORP,2024,26914000000.00,Revenues,2024-02-21,2023-01-29,9752000000.00,NetIncomeLoss,10041000000.00,OperatingIncomeLoss,3827000000.00,AccountsReceivableNetCurrent
